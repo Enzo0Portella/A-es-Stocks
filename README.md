@@ -26,7 +26,7 @@ Este projeto usa a nova biblioteca de gráficos shadcn/ui - https://ui.shadcn.co
 2. Vá para o diretório clonado:
 
    ```bash
-   cd stocks
+   cd A-es-Stocks
    ```
 
 3. Instale dependências:
